@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VarianteBac.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Varianta1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="bac.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac7In.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac7Out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac8.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac10.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac12.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac13.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac14.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

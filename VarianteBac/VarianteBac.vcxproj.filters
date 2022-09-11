@@ -65,6 +65,15 @@
     <ClInclude Include="Varianta15.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Varianta16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta17.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta18.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="bac.txt">
@@ -104,6 +113,12 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="Bac14.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac16.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac17.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

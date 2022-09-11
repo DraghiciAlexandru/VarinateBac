@@ -157,6 +157,9 @@
     <ClInclude Include="Varianta13.h" />
     <ClInclude Include="Varianta14.h" />
     <ClInclude Include="Varianta15.h" />
+    <ClInclude Include="Varianta16.h" />
+    <ClInclude Include="Varianta17.h" />
+    <ClInclude Include="Varianta18.h" />
     <ClInclude Include="Varianta2.h" />
     <ClInclude Include="Varianta1.h" />
     <ClInclude Include="Varianta3.h" />
@@ -173,6 +176,8 @@
     <Text Include="Bac12.txt" />
     <Text Include="Bac13.txt" />
     <Text Include="Bac14.txt" />
+    <Text Include="Bac16.txt" />
+    <Text Include="Bac17.txt" />
     <Text Include="Bac2.txt" />
     <Text Include="Bac3.txt" />
     <Text Include="Bac4.txt" />

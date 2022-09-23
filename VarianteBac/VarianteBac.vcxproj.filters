@@ -74,6 +74,42 @@
     <ClInclude Include="Varianta18.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Varianta19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta22.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta23.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta24.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta25.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta26.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta27.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta28.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta29.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta30.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="bac.txt">
@@ -119,6 +155,42 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="Bac17.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac18.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac19.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac21.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac22.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac23.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac24.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac25.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac26.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac27.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac28.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac29.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bac30.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

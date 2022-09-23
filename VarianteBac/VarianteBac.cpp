@@ -1,9 +1,9 @@
 #include <iostream>
-#include "Varianta17.h"
+#include "Varianta24.h"
 
 using namespace std;
 
 int main()
 {
-	SolutieS3E3();
+	SolutieS2E2();
 }
